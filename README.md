@@ -13,8 +13,7 @@ library(farmeR)
 List all the functions in the package and find help.
 
 ```R
-ls(getNamespace("sholar"), all.names=TRUE)
-?run_GATK
+ls(getNamespace("scholar"), all.names=TRUE)
 ```
 
 
